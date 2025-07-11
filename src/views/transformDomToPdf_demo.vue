@@ -17,12 +17,12 @@
         </div>
         <div id="pdfDom2">
             <pdf_page08 class="pdf-page"></pdf_page08>
-            <!-- <pdf_page09 class="pdf-page"></pdf_page09>
+            <pdf_page09 class="pdf-page"></pdf_page09>
             <pdf_page10 class="pdf-page"></pdf_page10>
             <pdf_page11 class="pdf-page"></pdf_page11>
             <pdf_page12 class="pdf-page"></pdf_page12>
             <pdf_page13 class="pdf-page"></pdf_page13>
-            <pdf_page14 class="pdf-page"></pdf_page14> -->
+            <pdf_page14 class="pdf-page"></pdf_page14>
         </div>
 
         <el-button class="back-to-top" type="primary" style="position: fixed; bottom: 60px; right: 10px; z-index: 9999"
