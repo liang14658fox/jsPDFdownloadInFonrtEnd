@@ -1,0 +1,2 @@
+# jsPDFdownloadInFonrtEnd
+基于Vue2+jsPDF+html2Canvas开发的前端将Dom页面导出PDF或上传服务器的demo
